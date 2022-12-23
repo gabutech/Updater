@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>AutoUpdate.exe https://github.com/codewitch-honey-crisis/AutoUpdate/releases/download/Refresh.v0.0.0.1/AutoUpdate.Refresh.v0.0.0.1.zip</StartArguments>
+  </PropertyGroup>
+</Project>
